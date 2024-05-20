@@ -33,7 +33,7 @@
     "@reactioncommerce/api-plugin-email": "~1.0.1",
     "@reactioncommerce/api-plugin-email-smtp": "~1.0.1",
     "@reactioncommerce/api-plugin-email-templates": "~1.0.1",
-    "@reactioncommerce/api-plugin-files": "~1.0.13",
+    "@reactioncommerce/api-plugin-files": "~1.0.19",
     "@reactioncommerce/api-plugin-i18n": "~1.0.0",
     "@reactioncommerce/api-plugin-inventory": "~1.0.2",
     "@reactioncommerce/api-plugin-inventory-simple": "~1.0.1",
